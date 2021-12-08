@@ -66,6 +66,8 @@
     <string name="proximity_sensor_title">Sensor de proximidad</string>
     <string name="hand_wave_gesture_title">Pasar la mano</string>
     <string name="hand_wave_gesture_summary">Mostrar notificaciones cuando se pase la mano por el dispositivo</string>
+    <string name="wake_on_gesture_title">Despertar con gestos</string>
+    <string name="wake_on_gesture_summary">Despierta pantalla de bloqueo, en lugar de pantalla ambiente sino hay notificaciones</string>
     <string name="hand_wave_gesture_flat_title">Detectar orientación</string>
     <string name="hand_wave_gesture_flat_summary">Mostrar notificaciones sólo si el teléfono está sobre una superficie plana</string>
     <string name="pick_up_gesture_title">Recoger</string>
